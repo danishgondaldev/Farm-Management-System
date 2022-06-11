@@ -1,0 +1,2 @@
+Deer,100,Animal,Bad,5000
+Dog,45,Animal,Good,0
